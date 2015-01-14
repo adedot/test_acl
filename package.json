@@ -1,0 +1,30 @@
+{
+  "name": "acl",
+  "version": "0.0.1",
+  "description": "Access Control for ",
+  "keywords": [
+    "middleware",
+    "acl",
+    "flyclique"
+  ],
+  "repository": "",
+  "author": "Adetola Adewodu <adetola@adelabs.com>",
+  "homepage": "",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "main": "./test-acl.js",
+  "dependencies": {
+    "async": "~0.9.0",
+    "bluebird": "^2.3.11",
+    "lodash": "~2.4.1",
+    "mongodb": "^1.4.23"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "chai": "~1.10.0"
+  },
+  "scripts": {
+
+  }
+}
